@@ -1,0 +1,15 @@
+.board-container{
+background-image: url("images/ligthbackground2.jpg");
+position: absolute;
+width: 100%;
+height: 100%;
+background-size: cover;
+}
+
+#usernameid {
+    color: whitesmoke;
+    margin-top: 20px;
+    margin-left: 25%;
+    margin-right: 25%;
+    text-transform:uppercase;
+}
