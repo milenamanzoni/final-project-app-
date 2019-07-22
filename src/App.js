@@ -13,6 +13,8 @@ class App extends React.Component {
     };
   }
 
+
+
   goToBoard = (name) => {
     console.log("Going to Board");
     this.setState({

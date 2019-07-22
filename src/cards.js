@@ -1,3 +1,4 @@
+
 const listadoCartas = [{
     "id": 3,
     "name": "El Barco",
@@ -10,7 +11,7 @@ En amistad: Muestra el encuentro con amigos que se encontraban lejos. Nuevas ami
 En familia: Reencuentro con la familia, favorecido por los viajes cortos de vacaciones. El cambio de rutina mejorará las relaciones familiares y se podrán aclarar ciertos puntos de vista.\
 En salud: Algunos inconvenientes en este ámbito pueden darse por el consumo excesivo de sales. Posibilidad de recobrar la vitalidad física gracias al cambio de rutina que involucra también la alimentación.\
 El amor: momentos románticos y especiales compartidos en un viaje. Encuentro del amor con una persona del extranjero o la llegada de alguien del exterior que forma parte de la vida sentimental",
-    "picture": "url('images/3-elbarco.jpg')",
+    "picture": 'elbarco',
 
 },
 {
@@ -25,7 +26,7 @@ En amistad: Surgirán conflictos en el círculo de amistades, se descubrirán tr
 En familia: Es necesario encontrar el camino de la paz, la luz y la armonía para llevar adelante la relación familiar. La impulsividad puede traer muchos problemas sobre todo con los parientes cercanos.\
 En salud: Períodos cargados de sensibilidad repercutirán en el estado físico. Anuncia problemas en la garganta, amigdalitis, tos y carraspeos. Es necesario evitar los esfuerzos.\
 En amor: Anuncia amplias posibilidades, pueden darse discusiones apasionadas donde se necesitará hacer la valer la propia opinión o se darán conversaciones amistosas. Puede darse el final de una relación frágil o el comienzo de una nueva.",
-"picture": "url('images/11-ellatigo.jpg')",
+"picture": "11-ellatigo.jpg'",
 },
 {
     "id": 12,
@@ -38,7 +39,7 @@ En dinero: las nuevas ofertas laborales y los nuevos emprendimiento traerán un 
 En amistad: Muestra la necesidad de estar atentos a ciertos hechos que pueden ser mal interpretados y que pueden traer conflictos entre los amigos. Augura la posibilidad de conocer gente agradable con la que podrán concretar muy buenas amistades.\
 En familia: las dificultades en la comunicación pueden acarrear discusiones con parientes cercanos. Augura un llamado de telefónico que anuncia la llegada de un ser muy querido.\
 En salud: Los estados de tensión, el estrés y el ajetreo pueden traer problemas de hipotensión arterial. Es necesario someterse a la relajación y disfrutar de momentos de paz y armonía, tal vez escuchando muy buena música.",
-"picture": "url('images/12-lasaves.jpg')",
+"picture": "12-lasaves.jpg",
 },
 {
     "id": 13,
@@ -52,7 +53,7 @@ En amistad: amigos de la infancia aparecerán en el presente, se vivirán moment
 En familia: La evocación de tiempos pasados traerá nuevas sensaciones entre padre y hermanos. El buen humor y la cordialidad reinaran en las reuniones familiares.\
 En salud: Si bien los mensajes con respecto a las enfermedades serán positivos, anuncia enfermedades iniciales tales como sarampión o varicela.\
 En amor: Esta carta anuncia relaciones amorosas con una persona más joven. Los problemas que pueden surgir con la pareja pueden ser por el carácter efervescente y por el enfoque descarado de la vida.",
-"picture": "url('images/13-losninos.jpg')",
+"picture": "13-losninos.jpg",
 },
 {
     "id": 14,
@@ -66,7 +67,7 @@ En amistad: Viejos amigos aparecerán no con muy buenas intenciones, es importan
 En familia: La influencia de un tercero malintencionado puede provocar ciertas discusiones y enfrentamientos con integrantes de la familia.\
 En salud: Esta carta muestra una advertencia. Se debe estar prevenido ante un mal pronóstico acerca de una enfermedad que puede no ser cierta. Cuidado con los tratamientos a seguir.\
 En amor: Pueden vivirse aventuras de fondo sexual que no tendrán futuro. Un doloroso pasado a servido de aprendizaje, por lo no habrá más malos tratos por parte de la pareja.",
-"picture": "url('images/14-lazorra.jpg')",
+"picture": "14-lazorra.jpg",
 },
 {
     "id": 16,
@@ -80,7 +81,7 @@ En amistad: Los encuentros con viejos amigos gozarán de armonía y felicidad. A
 En familia: La armonía y el buen humor reinarán en las reuniones familiares. Atrás han de quedar los enfrentamientos, y se abrirá un camino de fraternidad y amor.\
 En salud: El cuerpo y el alma pueden encontrar el equilibrio y la armonía justa si se comienza a disfrutar de la naturaleza. Paseos a la luz de las estrellas, brindarán la energía que ayudará no solo a la parte física sino también a la espiritual.\
 En amor: El sentimiento que ha estado guardado desde hace tiempo podrá concretarse, ya que alguien estará esperando la decisión. Augura el encuentro con una persona libre de necesidades materiales o sociales.",
-"picture": "url('images/16-lasestrellas.jpg')",
+"picture": "16-lasestrellas.jpg",
 },
 {
     "id": 18,
@@ -94,7 +95,7 @@ En amistad: Augura una armoniosa evolución espiritual que permitirá cosechar n
 En familia: Augura reuniones agradables y armónicas con familiares cercanos. Muestra que un integrante de la familia brindará un apoyo inesperado.\
 En salud: Anuncia una salud totalmente estabilizada. Muestra una muy buena inmunidad que servirá para protección de las enfermedades estacionales, solo será necesario seguir con un estilo de vida sano.\
 En amor: La necesidad emocional que hoy se siente será recompensada con la aparición de un compañero muy apasionado. Aconseja el cuidado de la pasión y de la pareja. Las relaciones gozarán de la fidelidad, la armonía y el amor suficiente para crecer.",
-"picture": "url('images/18-elperro.jpg')",
+"picture": "18-elperro.jpg",
 },
 {
     "id": 20,
@@ -108,7 +109,7 @@ En amistad: Muestra una etapa en la que surgen grandes amistades dentro de los c
 En familia: Anticipa reuniones familiares en las que se festejarán cumpleaños, bodas o aniversarios. Muestra la posibilidad de viajes donde se darán encuentros con parientes lejanos.\
 En salud: Augura la participación en un establecimiento de salud donde se podrá realizar una rehabilitación o un simplemente una relajación. Puede darse la posibilidad de ingresar a un hospital para llevar a cabo un chequeo de salud.\
 En amor: Muestra que es momento de disfrutar de la soltería, con amigos y familiares. Pronto ha de llegar una persona que provocará una muy nueva impresión y con la que se dará una muy buena relación.",
-"picture": "url('images/20-eljardin.jpg')",
+"picture": "20-eljardin.jpg",
 },
 {
     "id": 21,
@@ -122,7 +123,7 @@ En amistad: Las situaciones tensas que se estarán viviendo repercutirán en las
 En familia: Los obstáculos en el ámbito financiero y laboral traerán cierto mal humor dentro del seno familiar. Determina la necesidad de buscar el diálogo y la armonía para sobrellevar todos los inconvenientes.\
 En salud: Auguras algunas enfermedades persistentes. Será necesario disciplinarse para sobrellevar todo tipo de obstáculos y vencerlas.\
 En amor: La relación de pareja está pasando por un mal momento. Existe un miedo muy marcado a comprometerse, tal vez sea el momento de separarse para meditar acerca de la relación.",
-"picture": "url('images/21-lamontana.jpg')",
+"picture": "21-lamontana.jpg",
 },
 {
     "id": 22,
@@ -136,41 +137,7 @@ En amistad: Se presentarán algunos malentendidos con viejos amigos, es importan
 En familia: La traición de un pariente muy cercano puede traer ciertos conflictos familiares. Será fundamental que se controle la impulsividad para no ocasionar mayores inconvenientes dentro del seno familiar.\
 En salud: Augura padecimientos de varices por lo que se deberán realizar actividades que estimulen la circulación, que refuerce y alivie las venas. Paseos y caminatas pueden ser una muy buena opción.\
 En amor: Anuncian aventuras de poca importancia que no traerá inconvenientes en los que aún siguen solos, pero para los que están en pareja puede significar la ruptura temporaria de la relación.",
-"picture": "url('images/22-elcamino.jpg')",
-},
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-];
+"picture": "22-elcamino.jpg",
+}];
 
 module.exports = listadoCartas;
