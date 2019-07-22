@@ -14,7 +14,7 @@ class TarotCard extends React.Component {
                         <b>
                             {this.props.title}
                         </b>
-                        {this.props.description}
+                        {this.props.description} 
                     </p>
                 </div>
                 :

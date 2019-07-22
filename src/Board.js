@@ -30,22 +30,22 @@ class Board extends React.Component {
       name: props.userName,
       isFlipped: false,
       listadoCartas: [
-        { number: 3, title: "El Barco", description: "Las emociones, la energia que fluye naturalmente", image: barco },
-        { number: 11, title: "El latigo", description: "Es una carta negativa que trae peleas y discusiones de tono muy fuerte con el entorno", image: latigo },
-        { number: 12, title: "Las Aves", description: "Esta carta es negativa, determina nerviosismo, preocupaciones y ajetreos.", image: aves },
-        { number: 13, title: "Los Ninos", description: "Esta carta es positiva y está indicando el hijo propio. Muestra un nuevo comienzo, una cosa pequeña o a una persona de naturaleza ingenua o infantil.", image: ninos },
-        { number: 14, title: "La Zorra", description: "Esta carta es negativa y advierte todo lo relacionado con la falsedad, con los engaños, con la astucia y con las mentiras.", image: zorra },
-        { number: 16, title: "Las Estrellas", description: "Es una carta positiva, augura el éxito en todas las cosas, propagando novedades importantes. Determina la intuición y la astrología.", image: estrellas },
-        { number: 18, title: "El Perro", description: "Esta carta es positiva, representa la amistad, la presencia de alguien en quien se puede confiar. Augura premios, éxitos y victorias.", image: perro },
-        { number: 20, title: "El Jardin", description: "Esta es una carta positiva y social, está representando al público, a la sociedad y a todos los lugares donde puede haber reuniones de personas.", image: jardin },
-        { number: 21, title: "El Montana", description: "Esta es una carta negativa que anuncia un bloqueo que impide el desarrollo de las actividades.", image: montana },
-        { number: 22, title: "El Camino", description: "Muestra la necesidad de tomar decisiones y la existencia de distintas soluciones y alternativas que se deberán escoger en el camino.", image: camino },
-        { number: 26, title: "Los Libros", description: "Las emociones, la energia que fluye naturalmente", image: libros },
-        { number: 27, title: "La Carta", description: "Las emociones, la energia que fluye naturalmente", image: carta },
-        { number: 28, title: "El Zingaro", description: "Las emociones, la energia que fluye naturalmente", image: zingaro },
-        { number: 30, title: "Los Lirios", description: "Las emociones, la energia que fluye naturalmente", image: lirios },
-        { number: 32, title: "La Luna", description: "Las emociones, la energia que fluye naturalmente", image: luna },
-        { number: 34, title: "Los Peces", description: "Las emociones, la energia que fluye naturalmente", image: peces }
+        { number: 3, title: "El Barco", description: " Las emociones, la energia que fluye naturalmente", image: barco },
+        { number: 11, title: "El latigo", description: " Es una carta negativa que trae peleas y discusiones de tono muy fuerte con el entorno", image: latigo },
+        { number: 12, title: "Las Aves", description: " Esta carta es negativa, determina nerviosismo, preocupaciones y ajetreos.", image: aves },
+        { number: 13, title: "Los Ninos", description: " Esta carta es positiva y está indicando el hijo propio. Muestra un nuevo comienzo, una cosa pequeña o a una persona de naturaleza ingenua o infantil.", image: ninos },
+        { number: 14, title: "La Zorra", description: " Esta carta es negativa y advierte todo lo relacionado con la falsedad, con los engaños, con la astucia y con las mentiras.", image: zorra },
+        { number: 16, title: "Las Estrellas", description: " Es una carta positiva, augura el éxito en todas las cosas, propagando novedades importantes. Determina la intuición y la astrología.", image: estrellas },
+        { number: 18, title: "El Perro", description: " Esta carta es positiva, representa la amistad, la presencia de alguien en quien se puede confiar. Augura premios, éxitos y victorias.", image: perro },
+        { number: 20, title: "El Jardin", description: " Esta es una carta positiva y social, está representando al público, a la sociedad y a todos los lugares donde puede haber reuniones de personas.", image: jardin },
+        { number: 21, title: "La Montana", description: " Esta es una carta negativa que anuncia un bloqueo que impide el desarrollo de las actividades.", image: montana },
+        { number: 22, title: "El Camino", description: " Muestra la necesidad de tomar decisiones y la existencia de distintas soluciones y alternativas que se deberán escoger en el camino.", image: camino },
+        { number: 26, title: "Los Libros", description: " Esta carta se refiere a algo que está oculto, un secreto que aún no ha podido salir a la luz", image: libros },
+        { number: 27, title: "La Carta", description: " Esta carta es neutra, está subordinada a las que se encuentran junto a ella, anuncia una noticia que está en camino y que llegará muy pronto.", image: carta },
+        { number: 28, title: "El Zingaro", description: " Esta es una carta neutra, subordinada a las cartas que la acompañan, representa al consultante si este es un hombre, por lo que se la considera una carta personal para hombres.", image: zingaro },
+        { number: 30, title: "Los Lirios", description: " Esta es una carta positiva, simboliza la intimidad, la familia, la vida de hogar, la armonía y también la sexualidad.", image: lirios },
+        { number: 32, title: "La Luna", description: " Esta carta muestra que se puede contar con el éxito, con el reconocimiento, la aprobación y el ascenso", image: luna },
+        { number: 34, title: "Los Peces", description: " Es la carta positiva, que tiene el poder de modificar o dominar el valor de las cartas que se encuentran cerca, representa el dinero.", image: peces }
       ]
     };
 

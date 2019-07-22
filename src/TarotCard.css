@@ -25,4 +25,6 @@
 
   .card-description{
     color: whitesmoke;
+    box-sizing: content-box;
+    width: 200px;
   }

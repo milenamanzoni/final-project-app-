@@ -138,6 +138,28 @@ En familia: La traición de un pariente muy cercano puede traer ciertos conflict
 En salud: Augura padecimientos de varices por lo que se deberán realizar actividades que estimulen la circulación, que refuerce y alivie las venas. Paseos y caminatas pueden ser una muy buena opción.\
 En amor: Anuncian aventuras de poca importancia que no traerá inconvenientes en los que aún siguen solos, pero para los que están en pareja puede significar la ruptura temporaria de la relación.",
 "picture": "22-elcamino.jpg",
-}];
+}
+{
+    "id": 26,
+    "name": "Los Libros",
+    "short-description":"Muestra la necesidad de tomar decisiones y la existencia de distintas soluciones y alternativas que se deberán escoger en el camino.",
+    "long-description": "Esta carta es negativa y su significado depende de las cartas que se encuentran a su alrededor. Muestra la necesidad de tomar decisiones y la existencia de distintas soluciones y alternativas que se deberán escoger en el camino. Determina una encrucijada que obliga a pensar detenidamente el camino que se ha de seguir, ya que se pueden presentar imprevistos que momentáneamente no se podrán manejar. Augura también traiciones, miedo a equivocarse, infidelidades, desconfianza. Puede también advertir la presencia de un poderoso enemigo que se encuentra muy cerca. Se identifica con una persona cuyo carácter es muy indeciso, es cambiante y se muestra muchas veces de modo inmaduro y con acciones precipitadas. Se relaciona con la carta Reina de Diamantes.\
+    En lo concreto: Aparecen numerosos obstáculos en todos los ámbitos de la vida, que necesitarán de la decisión adecuada para elegir el camino concreto que conduzca al triunfo.\
+En trabajo: Augura algunos obstáculos que se pueden presentar en este ámbito y que pueden impedir avances en aquellos que trabajan en relación de dependencia. Algunos proyectos estarán trabados por enemigos poderosos.\
+En dinero: Anuncia ciertas ganancias de dinero que no serán obtenidos por medios claros. Será necesario caminar con cuidado para no tener más pérdidas que ganancias.\
+En amistad: Se presentarán algunos malentendidos con viejos amigos, es importante tomarse el tiempo necesario para evaluar la situación y decidir si vale la pena recuperar la amistad o buscar nuevas amistades.\
+En familia: La traición de un pariente muy cercano puede traer ciertos conflictos familiares. Será fundamental que se controle la impulsividad para no ocasionar mayores inconvenientes dentro del seno familiar.\
+En salud: Augura padecimientos de varices por lo que se deberán realizar actividades que estimulen la circulación, que refuerce y alivie las venas. Paseos y caminatas pueden ser una muy buena opción.\
+En amor: Anuncian aventuras de poca importancia que no traerá inconvenientes en los que aún siguen solos, pero para los que están en pareja puede significar la ruptura temporaria de la relación.",
+"picture": "22-elcamino.jpg",
+}
+
+
+
+
+
+
+
+];
 
 module.exports = listadoCartas;
